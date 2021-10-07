@@ -1,0 +1,1 @@
+Talvez tenha alguns erros ou bugs, mas estou com preguiça de consertar entao fds kkkkk
