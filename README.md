@@ -1,1 +1,1 @@
-Listas/Trabalhos/Atividades em C no Ano de 2021 em AEDI-I
+Lists / Works / Activities in C in the Year 2021 in AEDI-I
