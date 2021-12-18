@@ -1,0 +1,23 @@
+Dado um texto existente no "main.c", construa um programa que formate o texto em um conjunto de linhas de forma que palavras caibam completamente na linha. Cada linha pode ter no máximo 80 caracteres. A partir do texto formatado construa um menu de opções para:
+
+a)      Imprimir o texto formatado;
+
+b)      Dado uma palavra informar quantas vezes a palavra aparece e em qual(is) linha(s) e coluna(s) ela está;
+
+c)      Substituir uma palavra do texto por outra fornecida pelo usuário. Apenas a primeira ocorrência da palavra deve ser substituída. Primeira ocorrência é a primeira vez que a palavra aparece no texto a partir do início do texto; Não esqueça de reformatar o texto;
+
+d)      Substituir uma palavra do texto por outra fornecida pelo usuário. Todas as ocorrências da palavra devem ser substituídas; Não esqueça de reformatar o texto;
+
+e)      Colocar o texto em caixa-alta, ou seja, todos seus caracteres em maiúsculo;
+
+f)       Colocar o texto em caixa-baixa, ou seja, todos seus caracteres em minúsculo;
+
+g)      Colocar em caixa-alta o primeiro caracter de cada início de frase;
+
+h)        Alinhar o texto à esquerda;
+
+i)      Alinhar o texto à direita;
+
+j)        Justificar o texto;
+
+k)   Centralizar o texto; 
