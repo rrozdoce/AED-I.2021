@@ -7,7 +7,3 @@ Querido Calouro, se voce esta aqui a procura de aprender C corretamente, assista
 
 --| RECOMMENDATIONS |--
 <a href="https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md" target="_blank">Free Ebooks</a>
-
-
---| TRABALHOS FEITOS PELA RAFA GOD |--
-Git dela: https://github.com/ElaRafaPy
